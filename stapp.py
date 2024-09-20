@@ -107,5 +107,5 @@ st.write("#### Want to try different scenarios? Adjust the sliders and try again
 # Footer
 st.markdown("""
 ---
-Made by KeeObom.
+Made by [KeeObom](https://github.com/KeeObom)
 """)
